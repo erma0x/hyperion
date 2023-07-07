@@ -1,10 +1,3 @@
-[ ] obbiettivo finale, un bel backtesting per poter prendere la strategia e metterla in un conto live.
-    con FOREX e/o Crypto come Asset, ed utilizzando i Futures per andare Long e Short.
-    max DrowDown del 4% in backtest. Con piu position size possibile per maggiori guadagni.
-    Dati di almeno 5 anni.
-    Backtest e Walk Forward test
-
-
 WALK FORWARD TEST OPTIMIZATION
     Get all relevant data
     Break data into multiple pieces
@@ -17,17 +10,7 @@ WALK FORWARD TEST OPTIMIZATION
 
 [ ] single strategy evolution
  
-
-[ ] butta giu le basi per un report
-    - figure della stessa figsize
-    - reformatta l'indice del tempo nel prezzo
-
-[ ] butta giu le basi per un backtest multi market
-[ ] prendi e salvati tutti i dati senza scaricarli
-[ ] commissioni (sottrai pips dal prezzo nei guadagni ed aggiungilo alle perdite a seconda della coppia)
-[ ] report: calcolami i pips medi di guadagno
-[ ] multiple experiment directory
-[ ] genetic algorithm evolution
+[ ] report pdf
 
 [ ] PERFORMANCE METRICs to do
     

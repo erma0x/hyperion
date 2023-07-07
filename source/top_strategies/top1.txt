@@ -1,0 +1,1 @@
+configs = {'ticker': 'AUDCHF=X', 'interval': '5m', 'tp': 9.770474624039368e-05, 'sl': 0.0007900254502993882, 'ma_long': 144, 'ma_short': 24, 'final_equity': 1870555.7504773184, 'sortino_ratio': 0.5283304298660269, 'id': 18}
